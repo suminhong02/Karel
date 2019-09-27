@@ -35,7 +35,6 @@ public class KarelCarl {
         carl.turnLeft();
         carl.turnLeft();
 
-
     }
 
 
