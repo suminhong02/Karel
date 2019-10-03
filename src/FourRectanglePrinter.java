@@ -8,9 +8,9 @@ public class FourRectanglePrinter {
         System.out.println(box);
         box.translate(2,0);
         System.out.println(box);
-        box.translate(2,3);
+        box.translate(0,-3);
         System.out.println(box);
-        box.translate(0,3);
+        box.translate(-2,0);
         System.out.println(box);
 
     }
